@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/release-v1.0.2-blue.png)
 
-## A fast JSON parser/generator for C++ with both SAX/DOM style API 
+## A  fast JSON parser/generator for C++ with both SAX/DOM style API 
 
 Tencent is pleased to support the open source community by making RapidJSON available.
 
